@@ -1,6 +1,11 @@
 # Great GitHub Profiles
 
-Companion Repo to LinkedIn Learning course **'Great GitHub Profiles'**
+Companion Repo to LinkedIn Learning course **'Great GitHub Profiles'**  
+
+In this course, you'll learn how to customized your GitHub profile using 5 techniques.  
+An example of an excellent customized profile is shown below.
+
+![Example](https://github.com/lynnlangit/great-github-profiles/blob/main/example.png)
 
 ## Links
 
