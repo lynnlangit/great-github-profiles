@@ -17,7 +17,7 @@ An example of an excellent customized profile (shown below) is from GitHub user 
 - **Optimize** -  your default GitHub Profile - [link](https://hackernoon.com/how-to-optimize-your-github-profile-9540f338b2c9)
 - **Display** -  GitHub badges on your profile - [link](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#displaying-badges-on-your-profile)
 - **Resources** - to build / customize your GitHub profile - [link](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-- **Tips Article** - how to optimize your custom GitHub Profile - [link[(https://dev.to/kmhmubin/create-a-badass-github-profile-readmes-1a02)
+- **Tips Article** - how to optimize your custom GitHub Profile - [link](https://dev.to/kmhmubin/create-a-badass-github-profile-readmes-1a02)
 
 ### Repo Tips
 
