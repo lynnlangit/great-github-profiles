@@ -1,6 +1,6 @@
 # Great GitHub Profiles
 
-Companion Repo to LinkedIn Learning course **'Great GitHub Profiles'**  
+Companion Repo to LinkedIn Learning course **'Great GitHub Profiles'**  - [link](https://www.linkedin.com/learning/craft-a-great-github-profile)
 
 In this course, you'll learn how to customize your own GitHub profile using 5 techniques.  
 An example of an excellent customized profile (shown below) is from GitHub user [Abhishek Naidu](https://github.com/abhisheknaiidu)
