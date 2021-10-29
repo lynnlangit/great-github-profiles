@@ -28,4 +28,4 @@ Companion Repo to my LinkedIn Learning course **'Great GitHub Profiles'**  - [li
 
 ## Example Scripts
 
-See the '/scripts' folder in this repo
+See the `/scripts` folder in this repo
